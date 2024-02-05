@@ -4,55 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ebad8a6ff350e2",
+        "id": "02389b5b5225e39a",
         "type": "tabs",
         "children": [
           {
-            "id": "c291eb571126138f",
+            "id": "173117361a31cd4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
+                "file": "React js/Libraries.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61349cd5ef04142c",
+            "id": "e3348954229b1277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
+                "file": "Learned while building Game Cafe bookings app/Info page.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c002b304ce24d12a",
+            "id": "a149bb68116ca69c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hooks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4587dc29df75a5c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hooks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hooks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,11 +163,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c002b304ce24d12a",
+  "active": "a149bb68116ca69c",
   "lastOpenFiles": [
-    "Interview.md",
-    "Hooks.md",
-    "context.md",
+    "React js/Libraries.md",
+    "React js/Bundle.md",
+    "React js/moment.md",
+    "React js/Interview.md",
+    "React js/Hooks.md",
+    "Learned while building Game Cafe bookings app/Info page.md",
+    "Learned while building Game Cafe bookings app/layouts.md",
+    "Learned while building Game Cafe bookings app/crucial.md",
+    "React js/Untitled.canvas",
+    "Learned while building Game Cafe bookings app/learning.md",
+    "Varsity Learning/Things to know before Investing.md",
+    "Varsity Learning/Introduction.md",
+    "Varsity Learning/Investment and why.md",
+    "Varsity Learning/where to invest.md",
+    "Learned while building Game Cafe bookings app",
+    "Varsity Learning",
+    "React js/useTransition.md",
+    "2024-02-02.md",
+    "React js/useState.md",
     "React js"
   ]
 }

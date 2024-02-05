@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:Interview",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "file:Hooks",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1.17446695963542,
   "lineSizeMultiplier": 1.17147623697917,
   "collapse-forces": true,
-  "centerStrength": 0,
-  "repelStrength": 11.3313802083333,
-  "linkStrength": 0.8382568359375,
+  "centerStrength": 0.135660807291667,
+  "repelStrength": 13.3846028645833,
+  "linkStrength": 0.8397216796875,
   "linkDistance": 30,
-  "scale": 1.4600484654393717,
+  "scale": 0.49917774321592795,
   "close": true
 }

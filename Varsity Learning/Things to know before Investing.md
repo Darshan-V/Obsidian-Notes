@@ -1,0 +1,5 @@
+1. Risk and Return go hand in hand. Higher the risk, the higher the return. The lower the risk, the lower the return.
+2. Investment in fixed income is a good option if you want to protect your principal amount. It is relatively less risky. However, you have the risk of losing money when you adjust the inflation return. Example – A fixed deposit that gives you 9% when the inflation is 10% means you lose a net of 1% per annum. Alternatively, the risk increases if you invest in a corporate fixed-income instrument.
+3. Investment in Equities is a great option. It is known to beat inflation over a long period. Historically equity investment has generated returns close to 14-15%. However, equity investments can be risky.
+4. Real Estate investment requires a significant outlay of cash and cannot be done with smaller amounts. Liquidity is another issue with real estate investment – you cannot buy or sell whenever you want.
+5. Gold and silver are relatively safer, but the historical return on such investment has not been very encouraging.
