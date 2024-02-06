@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:Interview",
@@ -20,6 +20,27 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "file:Libraries",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Learned while building Game Cafe bookings app\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"Varsity Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +53,6 @@
   "repelStrength": 13.3846028645833,
   "linkStrength": 0.8397216796875,
   "linkDistance": 30,
-  "scale": 0.49917774321592795,
+  "scale": 0.22487563555923476,
   "close": true
 }

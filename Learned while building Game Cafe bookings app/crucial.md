@@ -3,4 +3,4 @@
 - [ ] presence of lot of unwanted dependancy states
 - [ ] remainder: using router but was mentioned not to use
 - [ ] extract buttons / create a common button 
-
+[[Spawn kinda blockers]]
