@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React js/Hooks.md",
+                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a602f2301e7ac80",
+            "id": "59410d72c433d506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+                "file": "Notion like editor with analytics tracking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "146e961fd13ab5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learned while building Game Cafe bookings app/learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+                "file": "Notion like editor with analytics tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+                "file": "Notion like editor with analytics tracking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+                "file": "Notion like editor with analytics tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md"
+                "file": "Notion like editor with analytics tracking.md"
               }
             }
           }
@@ -194,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,19 +225,25 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "0a602f2301e7ac80",
+  "active": "59410d72c433d506",
   "lastOpenFiles": [
+    "Utils.md",
+    "Notion like editor with analytics tracking.md",
+    "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+    "Learned while building Game Cafe bookings app/learning.md",
+    "React js/Bundle.md",
+    "React js/Hooks.md",
+    "().md",
+    "React js/useState.md",
+    "React js/Interview.md",
+    "Learn RUST/Rust Introduction.md",
+    "Learn RUST/Index.md",
+    "Learn RUST",
     "Learned while building Game Cafe bookings app/Info page.md",
     "Learned while building Game Cafe bookings app/crucial.md",
-    "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
     "Learned while building Game Cafe bookings app/layouts.md",
-    "Learned while building Game Cafe bookings app/learning.md",
-    "React js/Interview.md",
-    "React js/Hooks.md",
-    "React js/Bundle.md",
     "React js/Libraries.md",
     "React js/moment.md",
-    "React js/useState.md",
     "React js/useTransition.md",
     "React js/Untitled.canvas",
     "Varsity Learning/Things to know before Investing.md",

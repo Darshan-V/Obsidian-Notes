@@ -1,3 +1,5 @@
 ## Bundling tools
 - [[parcel]]
-	- javascript bundler with xyz features
+	- Zero configuration build tool for react
+###### Dist folder in react 
+[[learning]]

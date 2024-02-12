@@ -24,3 +24,4 @@ closureExample(); // Outputs: "I am from the outer function"
 
 ```
 
+
