@@ -1,0 +1,12 @@
+- [ ] GTM e-sakal prod configuration 
+- [ ] configure all the tags and triggers from the prod website
+
+- [?] hamburger
+- [x] citylist
+- [?] storypage view
+- [?] story page variables in share platform 
+- [?] twitter is not appearing in article share platform
+- [x] site-search
+- [x] hamburger-item-click
+- [x] navbar menu click
+- [x] epaper
