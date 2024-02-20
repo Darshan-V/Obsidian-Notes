@@ -54,6 +54,30 @@
             }
           },
           {
+            "id": "4530291d864a9a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a396033c874ba69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "146e961fd13ab5a8",
             "type": "leaf",
             "state": {
@@ -78,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2659f8e71677aa13",
@@ -145,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/sample wireframe.md",
+                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/sample wireframe.md",
+                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/sample wireframe.md",
+                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/sample wireframe.md"
+                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md"
               }
             }
           }
@@ -250,38 +273,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9fd11dc906aa697",
+  "active": "0a396033c874ba69",
   "lastOpenFiles": [
+    "Diagram.svg",
+    "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+    "Diagram.svg.xml",
+    "ReadItLater Inbox/Note 2024-02-20 16-29-53.md",
+    "Learned while building Game Cafe bookings app/Info page.md",
+    "Learned while building Game Cafe bookings app/layouts.md",
+    "Learned while building Game Cafe bookings app/Untitled Diagram.svg",
+    "Excalidraw/sample wireframe.md",
+    "Todos.md",
+    "Functional Programming.md",
+    "React js/Bundle.md",
+    "React js/Hooks.md",
+    "Notion like editor with analytics tracking.md",
+    "Utils.md",
     "ReadItLater Inbox/Note 2024-02-14 19-55-45.md",
     "ReadItLater Inbox/Note 2024-02-14 19-55-38.md",
     "ReadItLater Inbox",
-    "Todos.md",
-    "Excalidraw/sample wireframe.md",
     "Excalidraw",
-    "Utils.md",
     "Learn RUST/Rust Introduction.md",
     "Learn RUST/Index.md",
     "React js/parcel.md",
     "React js/Things to Remember.md",
-    "React js/Bundle.md",
     "React js/Interview.md",
     "Learned while building Game Cafe bookings app/crucial.md",
-    "Notion like editor with analytics tracking.md",
-    "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
     "Learned while building Game Cafe bookings app/learning.md",
-    "React js/Hooks.md",
     "().md",
     "React js/useState.md",
     "Learn RUST",
-    "Learned while building Game Cafe bookings app/Info page.md",
-    "Learned while building Game Cafe bookings app/layouts.md",
     "React js/Libraries.md",
     "React js/moment.md",
     "React js/useTransition.md",
     "React js/Untitled.canvas",
-    "Varsity Learning/Things to know before Investing.md",
-    "Varsity Learning/Introduction.md",
-    "Varsity Learning/Investment and why.md",
     "Learned while building Game Cafe bookings app",
     "Varsity Learning",
     "React js"

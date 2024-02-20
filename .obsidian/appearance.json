@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Border"
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code"
 }
