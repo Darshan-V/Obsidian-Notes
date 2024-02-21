@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
+                "file": "Learned while building Game Cafe bookings app/TODOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React js/Interview.md",
+                "file": "Learn RUST/Rust Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React js/Interview.md",
+                "file": "Learn RUST/Rust Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "React js/Interview.md",
+                "file": "Learn RUST/Rust Introduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React js/Interview.md",
+                "file": "Learn RUST/Rust Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React js/Interview.md"
+                "file": "Learn RUST/Rust Introduction.md"
               }
             }
           }
@@ -254,24 +254,21 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "obsidian-projects:Open projects": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal headlines only": false,
-      "privacy-glasses:Reveal all": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4530291d864a9a8b",
+  "active": "a6a39b709a6a36e5",
   "lastOpenFiles": [
-    "React js/Hooks.md",
+    "Learn RUST/Index.md",
+    "Learned while building Game Cafe bookings app/TODOS.md",
     "React js/Interview.md",
+    "React js/Hooks.md",
     "Utils.md",
     "Learned while building Game Cafe bookings app/learning.md",
     "Todos.md",
     "Notion like editor with analytics tracking.md",
     "Functional Programming.md",
     "Diagram.svg",
-    "Learned while building Game Cafe bookings app/Spawn kinda blockers.md",
     "ReadItLater Inbox/Note 2024-02-14 19-55-38.md",
     "ReadItLater Inbox/Note 2024-02-20 16-29-53.md",
     "ReadItLater Inbox/Note 2024-02-14 19-55-45.md",
@@ -286,7 +283,6 @@
     "ReadItLater Inbox",
     "Excalidraw",
     "Learn RUST/Rust Introduction.md",
-    "Learn RUST/Index.md",
     "React js/parcel.md",
     "Learned while building Game Cafe bookings app/crucial.md",
     "().md",

@@ -26,3 +26,14 @@
 
 ## Mappings
 App context {common app data} -> Login Context{Auth, token, secret, path(persist user token)} -> Booking Context {seats, hours, selected date, selected timings, server id (non persistent)} -> Wallet Context {custom amount / selected amount, mode of payment (non persistent)}
+
+### API integration
+- [ ] previewUser
+- [ ] getClientSlots
+- [ ] getUser
+- [ ] getUserToken
+- [ ] payment -> pg -> postBooking
+- [ ] userVerification
+- [ ] login
+- [ ] registerServerClient
+- [ ] updateUser
