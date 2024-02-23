@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn RUST/Rust Introduction.md",
+                "file": "Learned while building Game Cafe bookings app/TODOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn RUST/Rust Introduction.md",
+                "file": "Learned while building Game Cafe bookings app/TODOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learn RUST/Rust Introduction.md",
+                "file": "Learned while building Game Cafe bookings app/TODOS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn RUST/Rust Introduction.md",
+                "file": "Learned while building Game Cafe bookings app/TODOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn RUST/Rust Introduction.md"
+                "file": "Learned while building Game Cafe bookings app/TODOS.md"
               }
             }
           }
@@ -257,14 +257,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6a39b709a6a36e5",
+  "active": "4530291d864a9a8b",
   "lastOpenFiles": [
-    "Learn RUST/Index.md",
+    "Learned while building Game Cafe bookings app/learning.md",
     "Learned while building Game Cafe bookings app/TODOS.md",
+    "Learn RUST/Index.md",
     "React js/Interview.md",
     "React js/Hooks.md",
     "Utils.md",
-    "Learned while building Game Cafe bookings app/learning.md",
     "Todos.md",
     "Notion like editor with analytics tracking.md",
     "Functional Programming.md",
