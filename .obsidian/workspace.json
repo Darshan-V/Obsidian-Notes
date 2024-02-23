@@ -47,19 +47,9 @@
             "id": "e9fd11dc906aa697",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/sample wireframe.md"
-              }
-            }
-          },
-          {
-            "id": "4530291d864a9a8b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/TODOS.md",
+                "file": "Learned while building Game Cafe bookings app/spawnn Kanban.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/TODOS.md",
+                "file": "Learned while building Game Cafe bookings app/spawnn Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/TODOS.md",
+                "file": "Learned while building Game Cafe bookings app/spawnn Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/TODOS.md",
+                "file": "Learned while building Game Cafe bookings app/spawnn Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learned while building Game Cafe bookings app/TODOS.md"
+                "file": "Learned while building Game Cafe bookings app/spawnn Kanban.md"
               }
             }
           }
@@ -240,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 292.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -253,22 +243,30 @@
       "command-palette:Open command palette": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": true,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4530291d864a9a8b",
+  "active": "e9fd11dc906aa697",
   "lastOpenFiles": [
-    "Learned while building Game Cafe bookings app/learning.md",
+    "Learned while building Game Cafe bookings app/Untitled.md",
+    "Learned while building Game Cafe bookings app/spawnn Kanban.md",
     "Learned while building Game Cafe bookings app/TODOS.md",
-    "Learn RUST/Index.md",
-    "React js/Interview.md",
-    "React js/Hooks.md",
-    "Utils.md",
     "Todos.md",
+    "Utils.md",
     "Notion like editor with analytics tracking.md",
     "Functional Programming.md",
     "Diagram.svg",
+    "Learned while building Game Cafe bookings app/Untitled Diagram.svg",
+    "2024-02-18.md",
+    "2024-02-23.md",
+    "Excalidraw/sample wireframe.md",
+    "Untitled.canvas",
+    "Learned while building Game Cafe bookings app/Sprint 2 work log.md",
+    "Learned while building Game Cafe bookings app/learning.md",
+    "Learn RUST/Index.md",
+    "React js/Interview.md",
+    "React js/Hooks.md",
     "ReadItLater Inbox/Note 2024-02-14 19-55-38.md",
     "ReadItLater Inbox/Note 2024-02-20 16-29-53.md",
     "ReadItLater Inbox/Note 2024-02-14 19-55-45.md",
@@ -278,18 +276,12 @@
     "Diagram.svg.xml",
     "Learned while building Game Cafe bookings app/Info page.md",
     "Learned while building Game Cafe bookings app/layouts.md",
-    "Learned while building Game Cafe bookings app/Untitled Diagram.svg",
-    "Excalidraw/sample wireframe.md",
     "ReadItLater Inbox",
     "Excalidraw",
     "Learn RUST/Rust Introduction.md",
     "React js/parcel.md",
     "Learned while building Game Cafe bookings app/crucial.md",
-    "().md",
-    "React js/useState.md",
     "Learn RUST",
-    "React js/moment.md",
-    "React js/useTransition.md",
     "React js/Untitled.canvas",
     "Learned while building Game Cafe bookings app",
     "Varsity Learning",

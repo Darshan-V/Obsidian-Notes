@@ -38,4 +38,7 @@ App context {common app data} -> Login Context{Auth, token, secret, path(persist
 - [ ] registerServerClient
 - [ ] updateUser
 - [x] getClientSessions
-- [ ] 
+- [ ] wallet recharge amount listing
+- [ ] coupon list
+
+
