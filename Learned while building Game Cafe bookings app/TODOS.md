@@ -35,10 +35,28 @@ App context {common app data} -> Login Context{Auth, token, secret, path(persist
 - [ ] payment -> pg -> postBooking
 - [x] userVerification
 - [x] login
-- [ ] registerServerClient
-- [ ] updateUser
+- [x] registerServerClient
+- [x] updateUser
 - [x] getClientSessions
 - [ ] wallet recharge amount listing
-- [ ] coupon list
-
-
+- [x] coupon list
+- [x] inituserserverwallet
+- [x] rechargewallet
+- [x] pending balance wallet -> GetUserServerWalletApi
+- [x] remove input from the apply coupon -> add skip button
+- [ ] initPayment->razorpaypopup-> recharge wallet(razorpay signature).
+- [ ] input/select-> coupon[if no coupon navigate next]->summary[pay button(initrazorpay)]
+- [ ] share url ?
+- [ ] require api to show order summary before payment -> use initPayment
+- [!] wallet // -> do login check before navigating to the recharge my wallet
+- [ ] onpay button -> call only razorpay api
+- [ ] getServerWallets(list of wallets)
+- [ ] getserversessions->initi
+- [ ] base amount, gst & servercharges, platform fees
+## Clean up
+- [ ] keep only token, serverID in the context -> root context-> session storage
+## Routes
+-> home /id
+-> /bookings -> all booking data
+-> on success payment navigate to bookings -> share button only if there are unclaimed component
+-> Remove option to edit phone -> getUserApi -> updateUserApi -> update user name

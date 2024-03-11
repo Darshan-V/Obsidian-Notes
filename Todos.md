@@ -13,4 +13,4 @@
 - [ ] check selectors with data-id as selector
 - [ ] article share button
 - [ ] home page live article click
-- [ ] login social media - call karthik
+- [x] login social media - call karthik
