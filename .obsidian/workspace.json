@@ -35,11 +35,9 @@
             "id": "b0d740f692674941",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Learn RUST/Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md"
               }
             }
           },
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn RUST/Index.md",
+                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learn RUST/Index.md",
+                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn RUST/Index.md",
+                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn RUST/Index.md"
+                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md"
               }
             }
           }
@@ -237,14 +235,17 @@
   },
   "active": "b0d740f692674941",
   "lastOpenFiles": [
+    "Learned while building Game Cafe bookings app/Info page.md",
+    "Learned while building Game Cafe bookings app/crucial.md",
+    "Learn RUST/Index.md",
+    "Learn RUST/Rust Introduction.md",
+    "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
     "Learned while building Game Cafe bookings app/TODOS.md",
     "Learned while building Game Cafe bookings app/Log.md",
     "Learned while building Game Cafe bookings app/spawnn Kanban.md",
     "Utils.md",
     "2024-02-27.md",
     "Learned while building Game Cafe bookings app/layouts.md",
-    "Learned while building Game Cafe bookings app/Info page.md",
-    "Learned while building Game Cafe bookings app/crucial.md",
     "Excalidraw/sample wireframe.md",
     "Diagram.svg",
     "Learned while building Game Cafe bookings app/learning.md",
@@ -257,15 +258,12 @@
     "2024-02-23.md",
     "Untitled.canvas",
     "Learned while building Game Cafe bookings app/Sprint 2 work log.md",
-    "Learn RUST/Index.md",
     "React js/Interview.md",
     "React js/Hooks.md",
     "ReadItLater Inbox/Note 2024-02-14 19-55-38.md",
     "ReadItLater Inbox/Note 2024-02-20 16-29-53.md",
     "ReadItLater Inbox/Note 2024-02-14 19-55-45.md",
     "React js/Bundle.md",
-    "React js/Libraries.md",
-    "React js/Things to Remember.md",
     "Diagram.svg.xml",
     "ReadItLater Inbox",
     "Excalidraw",
