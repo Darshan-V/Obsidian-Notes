@@ -42,6 +42,30 @@
             }
           },
           {
+            "id": "5f8f0e00cb6a7040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React js/Hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "221a7a4dca1b48ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React js/Hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "146e961fd13ab5a8",
             "type": "leaf",
             "state": {
@@ -59,14 +83,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React js/useState.md",
+                "file": "React js/debouncing & throttling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
+                "file": "React js/debouncing & throttling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
+                "file": "React js/debouncing & throttling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
+                "file": "React js/debouncing & throttling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md"
+                "file": "React js/debouncing & throttling.md"
               }
             }
           }
@@ -233,8 +257,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0d740f692674941",
+  "active": "6a5256a56c2b3bbc",
   "lastOpenFiles": [
+    "React js/Hooks.md",
+    "React js/debouncing & throttling.md",
+    "React js/useState.md",
+    "Learned while building Game Cafe bookings app/learning.md",
+    "React js/Bundle.md",
+    "React js/Libraries.md",
+    "React js/Interview.md",
     "Learned while building Game Cafe bookings app/Info page.md",
     "Learned while building Game Cafe bookings app/crucial.md",
     "Learn RUST/Index.md",
@@ -248,7 +279,6 @@
     "Learned while building Game Cafe bookings app/layouts.md",
     "Excalidraw/sample wireframe.md",
     "Diagram.svg",
-    "Learned while building Game Cafe bookings app/learning.md",
     "Todos.md",
     "Learned while building Game Cafe bookings app/Untitled.md",
     "Notion like editor with analytics tracking.md",
@@ -258,12 +288,6 @@
     "2024-02-23.md",
     "Untitled.canvas",
     "Learned while building Game Cafe bookings app/Sprint 2 work log.md",
-    "React js/Interview.md",
-    "React js/Hooks.md",
-    "ReadItLater Inbox/Note 2024-02-14 19-55-38.md",
-    "ReadItLater Inbox/Note 2024-02-20 16-29-53.md",
-    "ReadItLater Inbox/Note 2024-02-14 19-55-45.md",
-    "React js/Bundle.md",
     "Diagram.svg.xml",
     "ReadItLater Inbox",
     "Excalidraw",
