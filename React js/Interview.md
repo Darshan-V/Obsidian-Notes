@@ -25,3 +25,14 @@ closureExample(); // Outputs: "I am from the outer function"
 ```
 
 ### ___[jsv8engine and node](https://cabulous.medium.com/how-v8-javascript-engine-works-5393832d80a7)___
+
+
+- [ ] What is a single page application
+- [ ] To build a static web-page, with just header, bg and a p tag, which option is better and why?, using vanilla js or using react , angular, vue or any library or framework.
+- [ ] why react
+- [ ] what is the difference in building frontend using vanilla js and react
+- [ ] what is virtual dom
+- [ ] what are the disadvantages or advantages of not having virtual dom
+- [ ] What is react suspense
+- [ ] Explain how authentication flow / how to handle authentication
+- [ ] 
