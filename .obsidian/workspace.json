@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React js/storybook.md",
+                "file": "React js/Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React js/storybook.md",
+                "file": "React js/Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "React js/storybook.md",
+                "file": "React js/Interview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React js/storybook.md",
+                "file": "React js/Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React js/storybook.md"
+                "file": "React js/Interview.md"
               }
             }
           }
@@ -287,10 +287,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6a39b709a6a36e5",
+  "active": "11249b5172b6d76f",
   "lastOpenFiles": [
-    "React js/Libraries.md",
+    "React js/useState.md",
+    "React js/Things to Remember.md",
+    "Notion like editor with analytics tracking.md",
+    "Functional Programming.md",
+    "Utils.md",
     "React js/storybook.md",
+    "React js/Libraries.md",
     "React js/Interview.md",
     "React js/Hooks.md",
     "React js/debouncing & throttling.md",
@@ -305,17 +310,12 @@
     "Threejs/Learn.md",
     "Threejs",
     "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
-    "Notion like editor with analytics tracking.md",
-    "Functional Programming.md",
     "React js/moment.md",
-    "React js/useState.md",
     "React js/useTransition.md",
-    "React js/Things to Remember.md",
     "Learned while building Game Cafe bookings app/learning.md",
     "Learned while building Game Cafe bookings app/Info page.md",
     "Learned while building Game Cafe bookings app/crucial.md",
     "Learn RUST/Index.md",
-    "Learn RUST/Rust Introduction.md",
     "Diagram.svg",
     "Learned while building Game Cafe bookings app/Untitled Diagram.svg",
     "Untitled.canvas",

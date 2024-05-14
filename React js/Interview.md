@@ -35,4 +35,6 @@ closureExample(); // Outputs: "I am from the outer function"
 - [ ] what are the disadvantages or advantages of not having virtual dom
 - [ ] What is react suspense
 - [ ] Explain how authentication flow / how to handle authentication
-- [ ] 
+
+
+[https://www.lydiahallie.com/blog/promise-execution?ref=dailydev](https://www.lydiahallie.com/blog/promise-execution?ref=dailydev)
