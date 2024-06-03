@@ -4,26 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "02389b5b5225e39a",
+        "id": "6500dec0d833d42c",
         "type": "tabs",
         "children": [
           {
-            "id": "11249b5172b6d76f",
+            "id": "41bda4aa3d3857ad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "InsatMedic/Home treatment service plan.md"
+                "file": "React js/Libraries.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "9015223470338730",
+            "id": "eb8c56b341072da3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "InsatMedic/Home treatment service plan.md"
+                "file": "InsatMedic/Study Material.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InsatMedic/Home treatment service plan.md",
+                "file": "InsatMedic/Study Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "InsatMedic/Home treatment service plan.md",
+                "file": "InsatMedic/Study Material.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InsatMedic/Home treatment service plan.md",
+                "file": "InsatMedic/Study Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InsatMedic/Home treatment service plan.md"
+                "file": "InsatMedic/Study Material.md"
               }
             }
           }
@@ -195,38 +199,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9015223470338730",
+  "active": "eb8c56b341072da3",
   "lastOpenFiles": [
-    "Pasted Image 20240525160852_490.png",
-    "InsatMedic/sample wireframe.md",
+    "Pasted image 20240603222628.png",
     "InsatMedic/Requirements.md",
+    "InsatMedic/Study Material.md",
+    "InsatMedic/Edges.md",
     "InsatMedic/Home treatment service plan.md",
-    "Learn RUST/Drawing 2024-03-11 19.38.00.excalidraw.md",
-    "Learned while building Game Cafe bookings app/TODOS.md",
-    "InsatMedic",
-    "React js/Interview.md",
-    "React js/useState.md",
-    "React js/Things to Remember.md",
-    "Notion like editor with analytics tracking.md",
-    "Functional Programming.md",
-    "Utils.md",
-    "React js/storybook.md",
     "React js/Libraries.md",
-    "React js/Hooks.md",
-    "React js/debouncing & throttling.md",
-    "React js/Bundle.md",
-    "COC web.md",
-    "Excalidraw/Remote Care.md",
-    "Remote Care.md",
-    "Threejs/Creating_scene.md",
-    "Threejs/Learn.md",
+    "React js/tanstack query.md",
+    "Pasted Image 20240525160852_490.png",
+    "Untitled.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
+    "Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.md",
+    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "InsatMedic",
     "Threejs",
-    "React js/moment.md",
-    "React js/useTransition.md",
-    "Learned while building Game Cafe bookings app/learning.md",
-    "Learned while building Game Cafe bookings app/Info page.md",
-    "Diagram.svg",
-    "Learned while building Game Cafe bookings app/Untitled Diagram.svg",
     "Untitled.canvas",
     "Diagram.svg.xml",
     "ReadItLater Inbox",
@@ -234,7 +248,6 @@
     "Learn RUST",
     "React js/Untitled.canvas",
     "Learned while building Game Cafe bookings app",
-    "Varsity Learning",
-    "React js"
+    "Varsity Learning"
   ]
 }

@@ -9,8 +9,9 @@
 - Tanstack query 
 - React native maps
 - Push notification
+- admin panel -> nextjs, tailwind, storybook, zustand
 
 #### Backend
-- Python
-- Mongo
+- Python/Javascript/Typescript
+- MongoDB
 - Docker
