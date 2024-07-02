@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InsatMedic/Study Material.md",
+                "file": "InsatMedic/Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82606fbcfb2e862d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Real Time Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46bc0e14540ad0c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Video calling in React Native App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "099fddb5fa8d8c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Real Time Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InsatMedic/Study Material.md",
+                "file": "Backend/Real Time Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "InsatMedic/Study Material.md",
+                "file": "Backend/Real Time Data.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InsatMedic/Study Material.md",
+                "file": "Backend/Real Time Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InsatMedic/Study Material.md"
+                "file": "Backend/Real Time Data.md"
               }
             }
           }
@@ -199,17 +235,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb8c56b341072da3",
+  "active": "a6a39b709a6a36e5",
   "lastOpenFiles": [
-    "Pasted image 20240603222628.png",
-    "InsatMedic/Requirements.md",
-    "InsatMedic/Study Material.md",
-    "InsatMedic/Edges.md",
+    "Backend/Video calling in React Native App.md",
+    "Backend/Real Time Data.md",
+    "Backend/Drawing 2024-06-27 21.34.04.excalidraw.md",
+    "InsatMedic/Kubernetes.md",
+    "Backend",
+    "Pasted image 20240618151305.png",
+    "Pasted image 20240618151251.png",
     "InsatMedic/Home treatment service plan.md",
+    "InsatMedic/Requirements.md",
+    "InsatMedic/sample wireframe.md",
+    "Todos.md",
+    "Functional Programming.md",
+    "COC web.md",
+    "InsatMedic/Study Material.md",
+    "Pasted image 20240603222628.png",
+    "InsatMedic/Edges.md",
     "React js/Libraries.md",
     "React js/tanstack query.md",
     "Pasted Image 20240525160852_490.png",
-    "Untitled.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
@@ -222,21 +268,12 @@
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
-    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
-    "Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.md",
-    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "InsatMedic",
@@ -247,7 +284,6 @@
     "Excalidraw",
     "Learn RUST",
     "React js/Untitled.canvas",
-    "Learned while building Game Cafe bookings app",
-    "Varsity Learning"
+    "Learned while building Game Cafe bookings app"
   ]
 }
