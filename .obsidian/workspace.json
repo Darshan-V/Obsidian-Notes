@@ -66,9 +66,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15506a6a40936dd8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "InsatMedic/InstaMedic Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Real Time Data.md",
+                "file": "InsatMedic/InstaMedic Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Real Time Data.md",
+                "file": "InsatMedic/InstaMedic Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Real Time Data.md",
+                "file": "InsatMedic/InstaMedic Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Real Time Data.md"
+                "file": "InsatMedic/InstaMedic Kanban.md"
               }
             }
           }
@@ -232,27 +250,29 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "obsidian-projects:Open projects": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a6a39b709a6a36e5",
+  "active": "15506a6a40936dd8",
   "lastOpenFiles": [
+    "InsatMedic/Kubernetes.md",
+    "InsatMedic/InstaMedic Kanban.md",
+    "InsatMedic/Home treatment service plan.md",
+    "InsatMedic/Edges.md",
+    "InsatMedic/Study Material.md",
+    "InsatMedic/sample wireframe.md",
     "Backend/Video calling in React Native App.md",
     "Backend/Real Time Data.md",
     "Backend/Drawing 2024-06-27 21.34.04.excalidraw.md",
-    "InsatMedic/Kubernetes.md",
     "Backend",
     "Pasted image 20240618151305.png",
     "Pasted image 20240618151251.png",
-    "InsatMedic/Home treatment service plan.md",
     "InsatMedic/Requirements.md",
-    "InsatMedic/sample wireframe.md",
     "Todos.md",
     "Functional Programming.md",
     "COC web.md",
-    "InsatMedic/Study Material.md",
     "Pasted image 20240603222628.png",
-    "InsatMedic/Edges.md",
     "React js/Libraries.md",
     "React js/tanstack query.md",
     "Pasted Image 20240525160852_490.png",
@@ -273,7 +293,6 @@
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "InsatMedic",
