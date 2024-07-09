@@ -28,6 +28,16 @@ kanban-plugin: board
 - [ ] Complete authentication flow with MVP desing
 
 
+## Backend Priority
+
+- [ ] Deploy backend
+- [ ] Add authorization
+- [ ] collect basic informations
+- [ ] integrate sockets
+- [ ] integrate and test calls
+	audio/video
+
+
 ***
 
 ## Archive
@@ -40,6 +50,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
