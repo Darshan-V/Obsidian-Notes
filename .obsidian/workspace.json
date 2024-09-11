@@ -15,6 +15,7 @@
               "state": {
                 "file": "React js/Libraries.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -27,6 +28,7 @@
               "state": {
                 "file": "InsatMedic/Kubernetes.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -39,6 +41,7 @@
               "state": {
                 "file": "Backend/Real Time Data.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -51,6 +54,7 @@
               "state": {
                 "file": "Backend/Video calling in React Native App.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -63,6 +67,7 @@
               "state": {
                 "file": "Backend/Real Time Data.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -73,14 +78,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InsatMedic/Communication methods.md",
+                "file": "Java and OOPS/Basics.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c96fde79bc12a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java and OOPS/Basics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd3d40ff856ddd74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java and OOPS/Datatypes and Variables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e57c016d665889b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java and OOPS/Android development/Syntax.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InsatMedic/Communication methods.md",
+                "file": "Java and OOPS/Android development/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "InsatMedic/Communication methods.md",
+                "file": "Java and OOPS/Android development/Syntax.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InsatMedic/Communication methods.md",
+                "file": "Java and OOPS/Android development/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InsatMedic/Communication methods.md"
+                "file": "Java and OOPS/Android development/Syntax.md"
               }
             }
           }
@@ -243,15 +288,29 @@
       "command-palette:Open command palette": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": true,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15506a6a40936dd8",
+  "active": "9e57c016d665889b",
   "lastOpenFiles": [
-    "InsatMedic/InstaMedic Kanban.md",
+    "Java and OOPS/Android development/Always Visit.md",
+    "Java and OOPS/Android development/Syntax.md",
+    "Common/Caching.md",
+    "Java and OOPS/Android development",
+    "COC web.md",
+    "1. Local Variables.md",
+    "Common",
+    "Pasted image 20240902115520.png",
+    "Java and OOPS/Datatypes and Variables.md",
+    "Java and OOPS/Basics.md",
+    "Pasted image 20240808123047.png",
     "InsatMedic/Communication methods.md",
+    "Pasted image 20240808120245.png",
+    "Pasted image 20240808120147.png",
+    "Java and OOPS",
+    "InsatMedic/InstaMedic Kanban.md",
     "InsatMedic/Kubernetes.md",
     "InsatMedic/Home treatment service plan.md",
     "InsatMedic/Edges.md",
@@ -266,7 +325,6 @@
     "InsatMedic/Requirements.md",
     "Todos.md",
     "Functional Programming.md",
-    "COC web.md",
     "Pasted image 20240603222628.png",
     "React js/Libraries.md",
     "React js/tanstack query.md",
@@ -275,18 +333,8 @@
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "InsatMedic",
@@ -294,9 +342,6 @@
     "Untitled.canvas",
     "Diagram.svg.xml",
     "ReadItLater Inbox",
-    "Excalidraw",
-    "Learn RUST",
-    "React js/Untitled.canvas",
-    "Learned while building Game Cafe bookings app"
+    "React js/Untitled.canvas"
   ]
 }

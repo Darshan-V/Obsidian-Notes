@@ -1,8 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "Shiba Inu",
   "translucency": false,
   "interfaceFontFamily": "Fira Code",
   "textFontFamily": "Fira Code",
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "theme": "moonstone",
+  "baseFontSizeAction": false
 }
