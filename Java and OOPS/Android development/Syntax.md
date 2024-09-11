@@ -22,5 +22,21 @@ fun start(): String = "OK"
 - #### Default Arguments
 - #### Named Arguments
 
+> Default: If you don't say anything, you get what's already set.  
+> Named: You can be very specific about what you want, in any order! 
 
+
+## Strings and String Literals
+
+Strings in kotlin are represented by the type string.
+Generally strings are sequence of characters in double quotes (").
+```kotlin
+val str = "abc 123"
+```
+
+> Strings are immutable, once I initialize a string I cannot modify or assign a new value to it
+
+#### String Literals
+> -> Escaped Strings 
+> -> Multiline Strings
 
