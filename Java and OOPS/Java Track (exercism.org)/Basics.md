@@ -24,3 +24,35 @@ class Calculator {
 ```java
 int sum = new Calculator.add(10, 5)
 ```
+
+## Strings
+#### Modifiers
+**Methods**
+
+| **Modifier and Type** | **Method and Description**                                                                                                                                               |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `int`                 | `indexOf(int ch)`<br>Returns the index within this string of the first occurrence of the specified character.                                                            |
+| `int`                 | `indexOf(int ch, int fromIndex)`<br>Returns the index within this string of the first occurrence of the specified character, starting the search at the specified index. |
+| `int`                 | `indexOf(String str)`<br>Returns the index within this string of the first occurrence of the specified substring.                                                        |
+| `int`                 | `indexOf(String str, int fromIndex)`<br>Returns the index within this string of the first occurrence of the specified substring, starting at the specified index.        |
+| `String`              | `substring(int beginIndex)`<br>Returns a new string that is a substring of this string.                                                                                  |
+| `String`              | `substring(int beginIndex, int endIndex)`<br>Returns a new string that is a substring of this string.                                                                    |
+| `String`              | `trim()`<br>Returns a copy of the string, with leading and trailing whitespace omitted.                                                                                  |
+| `String`              | `toLowerCase()`<br>Converts all of the characters in this String to lower case using the rules of the default locale.                                                    |
+| `String`              | `toLowerCase(Locale locale)`<br>Converts all of the characters in this String to lower case using the rules of the given Locale.                                         |
+
+### Booleans
+**Represented by *boolean* type**, which value can be either `true` or `false`.
+#### Three boolean operators in `Java`
+- `!` NOT : negates the boolean
+- `&&` AND : takes two booleans and and returns `true` only if both are true.
+- `||` OR : returns `true` if any one of the booleans are true.
+```java
+!true // => false 
+!false // => true 
+true && false // => false 
+true && true // => true 
+false || false // => false 
+false || true // => true
+```
+
