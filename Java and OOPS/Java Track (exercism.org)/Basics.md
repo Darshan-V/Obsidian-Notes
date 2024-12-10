@@ -56,3 +56,84 @@ false || false // => false
 false || true // => true
 ```
 
+## IF - ELSE (conditionals)
+```java
+class Car {
+	void drive() { 
+		if (fuel > 5) {
+			 fuel--; 
+			 } 
+			 else if (fuel > 0) { 
+				 turnOnFuelLight(); 
+				 fuel--; 
+			} 
+			else { 
+				stop(); 
+			} 
+	} 
+}
+```
+
+## Number
+#### Types of numbers
+- **Integers**
+- **Floating point**
+*common numeric types `int` `double` *
+- `int` can be converted to `double`, reverse doesn't hold, to achieve that need to *cast into int*, 
+In Java, there are two types of casting:
+
+- **Widening Casting** (automatically) - converting a smaller type to a larger type size  
+    `byte` -> `short` -> `char` -> `int` -> `long` -> `float` -> `double`  
+      
+    
+- **Narrowing Casting** (manually) - converting a larger type to a smaller size type  
+    `double` -> `float` -> `long` -> `int` -> `char` -> `short` -> `byte`
+
+## Chars
+`type` smallest addressable components of text.
+- Multiple `char`s can comprise a string such as `"word"` or `char`s can be processed independently. Their literals have single quotes e.g. `'A'`
+- `java.lang.Character` class contains many builtin library methods to inspect and manipulate `char`.
+```java
+//SqueakyClean example from exercism
+class SqueakyClean { static String clean(String identifier) { 
+StringBuilder res = new StringBuilder(); 
+boolean dashFlag = false; 
+for(int i=0; i < identifier.length(); i++){ 
+char c = identifier.charAt(i); 
+if ( c == ' ' ){ 
+res.append('_'); 
+}
+else if( c == '-'){
+dashFlag = true; 
+} 
+else if ( Character.isISOControl(c) ){
+res.append("CTRL"); 
+} 
+else if (Character.isDigit(identifier.charAt(i))) { 
+if (identifier.charAt(i) == '4') { 
+res.append("a");
+} 
+if (identifier.charAt(i) == '3') {
+res.append("e"); 
+} 
+if (identifier.charAt(i) == '0')
+{ res.append("o");
+} 
+if (identifier.charAt(i) == '1') { 
+res.append("l"); 
+}
+if (identifier.charAt(i) == '7') {
+res.append("t"); 
+} 
+} 
+else if ( Character.isLetter(c) && (c < 'α' || c > 'ω')){
+if(dashFlag){
+	c = Character.toUpperCase(c); 
+			 dashFlag = false; 
+			 } res.append(c); 
+			 } 
+			 }
+			  return res.toString(); 
+			  }
+			   }
+```
