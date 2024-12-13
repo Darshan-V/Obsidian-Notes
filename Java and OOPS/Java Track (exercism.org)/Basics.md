@@ -137,3 +137,35 @@ if(dashFlag){
 			  }
 			   }
 ```
+
+- squeakyClean feedback
+- You don't need to go through all the characters in the string, except perhaps for the character conversion to upper case after hyphen. The String class has two methods called **replace** and **replaceAll**:
+```java
+private static String convertLeetspeak(String text) {
+var transformedText = text.replaceAll("0", "o") 
+.replaceAll("1", "l") 
+............... return transformedText;
+}
+```
+- Always try to break the problem into very small functions. Your code will be much more readable. And use descriptive names for variables and methods.
+## Nullability
+**`null` literal is used to denote the absence of a value**
+
+## Classes
+- The primary object-oriented construct in Java is the _class_, which is a combination of data ([_fields_](https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html)), also known as instance variables, and behavior ([_methods_](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)). The fields and methods of a class are known as its _members_.
+- [`public`](https://en.wikibooks.org/wiki/Java_Programming/Keywords/public): the member can be accessed by any code (no restrictions).
+- [`private`](https://en.wikibooks.org/wiki/Java_Programming/Keywords/private): the member can only be accessed by code in the same class.
+- he above-mentioned grouping of related data and behavior plus restricting access to members is known as [_encapsulation_](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)),
+
+## Ternary Operators
+The _ternary operator_ is a lightweight, compact alternative for simple _if/else_ statements.
+```java
+boolean expr = 0 != 200;
+
+int value = expr ? 22 : 33; 
+```
+
+## Arrays
+```java
+type[] variableName = new type[size];
+```
