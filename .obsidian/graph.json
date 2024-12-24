@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:Interview",
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "path:\"TenantManager\" ",
+      "color": {
+        "a": 1,
+        "rgb": 16450758
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1.17446695963542,
-  "lineSizeMultiplier": 1.17147623697917,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.14300986842105,
+  "lineSizeMultiplier": 0.739498355263158,
   "collapse-forces": true,
-  "centerStrength": 0.135660807291667,
-  "repelStrength": 13.3846028645833,
-  "linkStrength": 0.8397216796875,
-  "linkDistance": 30,
-  "scale": 0.08809176330523234,
+  "centerStrength": 0.147368421052632,
+  "repelStrength": 20,
+  "linkStrength": 0.360032894736842,
+  "linkDistance": 164,
+  "scale": 0.0599121413641816,
   "close": true
 }
