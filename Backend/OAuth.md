@@ -12,3 +12,4 @@ Client ID - **This ID is used to identify the client with the authorization serv
 Client Secret - **secret password/key only the client and Authorization server knows**
 Authorization Code - **Authorization server sends back to the client, the client then sends the authorization code with the client secret in exchange for Access token**
 Access Token - **An access token is the key the client will use, to communicate with the resource server**
+![[Pasted image 20241224222331.png]]

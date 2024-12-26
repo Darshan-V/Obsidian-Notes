@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Real Time Data.md",
+                "file": "Backend/OIDC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Real Time Data"
+              "title": "OIDC"
             }
           },
           {
@@ -103,17 +103,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TenantManager/Learnings.md",
+                "file": "Backend/OIDC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learnings"
+              "title": "OIDC"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,12 +297,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8c96fde79bc12a3e",
+  "active": "82606fbcfb2e862d",
   "lastOpenFiles": [
-    "Pasted image 20241224222331.png",
     "Backend/OAuth.md",
     "TenantManager/Learnings.md",
     "Backend/Real Time Data.md",
+    "InsatMedic/Kubernetes.md",
+    "React js/Libraries.md",
+    "Backend/OIDC.md",
+    "Pasted image 20241226143415.png",
+    "Pasted image 20241224222331.png",
     "Backend/express.md",
     "Backend/Video calling in React Native App.md",
     "Backend/TODOS.md",
@@ -332,15 +336,11 @@
     "Pasted image 20240808120147.png",
     "Java and OOPS",
     "InsatMedic/InstaMedic Kanban.md",
-    "InsatMedic/Kubernetes.md",
     "InsatMedic/Home treatment service plan.md",
     "InsatMedic/Edges.md",
     "InsatMedic/Study Material.md",
-    "InsatMedic/sample wireframe.md",
     "Backend",
     "Pasted image 20240618151305.png",
-    "Pasted image 20240618151251.png",
-    "Pasted image 20240603222628.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "InsatMedic",
