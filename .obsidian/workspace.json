@@ -8,112 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41bda4aa3d3857ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React js/Libraries.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Libraries"
-            }
-          },
-          {
-            "id": "eb8c56b341072da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InsatMedic/Kubernetes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kubernetes"
-            }
-          },
-          {
-            "id": "82606fbcfb2e862d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/OIDC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OIDC"
-            }
-          },
-          {
-            "id": "46bc0e14540ad0c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Video calling in React Native App.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Video calling in React Native App"
-            }
-          },
-          {
-            "id": "099fddb5fa8d8c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Real Time Data.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Real Time Data"
-            }
-          },
-          {
-            "id": "15506a6a40936dd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java and OOPS/Basics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basics"
-            }
-          },
-          {
             "id": "8c96fde79bc12a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/OIDC.md",
+                "file": "Darshan/Project 1971/Restoring JAWA 1971.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OIDC"
+              "title": "Restoring JAWA 1971"
+            }
+          },
+          {
+            "id": "f1754eb7b9caeff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Darshan/Project 1971/Journey getting the bike started.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Journey getting the bike started"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,20 +222,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "82606fbcfb2e862d",
+  "active": "f1754eb7b9caeff8",
   "lastOpenFiles": [
+    "Darshan/Project 1971/Restoring JAWA 1971.md",
+    "Darshan/Project 1971/Journey getting the bike started.md",
+    "Darshan/Brainstorm/Knowing Wholesale local sarees supply/Scribble pad.md",
+    "Darshan/Project 1971",
+    "Backend/OIDC.md",
+    "Darshan/Brainstorm/Knowing Wholesale local sarees supply",
+    "Darshan/Sparks",
+    "Darshan/Brainstorm",
+    "Darshan",
+    "Java and OOPS/Basics.md",
+    "Backend/Real Time Data.md",
+    "Backend/Video calling in React Native App.md",
+    "React js/Libraries.md",
+    "InsatMedic/Communication methods.md",
+    "Track/2025.md",
+    "Track/Track.md",
+    "InsatMedic/Kubernetes.md",
+    "Track/2024.md",
+    "Track",
     "Backend/OAuth.md",
     "TenantManager/Learnings.md",
-    "Backend/Real Time Data.md",
-    "InsatMedic/Kubernetes.md",
-    "React js/Libraries.md",
-    "Backend/OIDC.md",
     "Pasted image 20241226143415.png",
     "Pasted image 20241224222331.png",
     "Backend/express.md",
-    "Backend/Video calling in React Native App.md",
     "Backend/TODOS.md",
-    "Java and OOPS/Basics.md",
     "Diagram.svg",
     "Backend/Drawing 2024-06-27 21.34.04.excalidraw.md",
     "Pasted image 20241218235152.png",
@@ -326,25 +264,12 @@
     "Java and OOPS/Untitled.md",
     "Java and OOPS/Android development/Always Visit.md",
     "Java and OOPS/Android development",
-    "COC web.md",
-    "1. Local Variables.md",
     "Common",
     "Pasted image 20240902115520.png",
     "Pasted image 20240808123047.png",
-    "InsatMedic/Communication methods.md",
     "Pasted image 20240808120245.png",
     "Pasted image 20240808120147.png",
-    "Java and OOPS",
-    "InsatMedic/InstaMedic Kanban.md",
-    "InsatMedic/Home treatment service plan.md",
-    "InsatMedic/Edges.md",
-    "InsatMedic/Study Material.md",
-    "Backend",
     "Pasted image 20240618151305.png",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "InsatMedic",
-    "Threejs",
     "Untitled.canvas",
     "React js/Untitled.canvas"
   ]
